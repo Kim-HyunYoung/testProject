@@ -10,7 +10,6 @@ public class GitTest {
 		System.out.println("test4444");
 
 		System.out.println("develop branch create");
-		System.out.println("test2222 제발");
 
 	}
 }
